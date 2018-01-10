@@ -2,7 +2,7 @@ title: Khu Key board
 description: 경희대학교 전자공학과 Khu Key board 입니다.
 show_downloads: false
 
-baseurl: "/home" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
+baseurl: "/" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
 url: "https://sauber92.github.io/khukeyboard" # change this to the base hostname & protocol for your site
 
 cayman-blog:
