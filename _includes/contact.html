@@ -1,0 +1,42 @@
+<style>
+  input, textarea {
+    display: block;
+    font-size: 1.1em;
+    padding: 0.25em;
+    width: 100%;
+    margin-bottom: 0.8em;
+    border-radius: 3px;
+    border: 1px solid #BABABA;
+  }
+  input, textarea:focus { outline-color: #17994F}
+
+  textarea {
+    height: 7em;
+    resize: none;
+  }
+
+  .button {
+    background-color: #18A37C;
+    color: #f3f6fa;
+    border: none;
+  }
+</style>
+
+<form action="https://formspree.io/jjy920517@gmail.com" method="POST">
+  <div class="group">
+    <label>성함</label>
+    <input type="text" name="name" placeholder="홍길동" data-validation-required-message="이름을 적어주세요." required>
+  </div>
+
+  <div class="group">
+    <label>답변받으실 이메일</label>
+    <input type="text" name="_replyto" placeholder="example@example.com" data-validation-required-message="이메일 주소를 적어주세요." required>
+  </div>
+
+  <div>
+    <label>문의하실 내용</label>
+    <textarea id="inputMessage" name="message" placeholder="잘하고있어" required="" data-validation-required-message="메세지를 입력해 적어주세요."></textarea>
+  </div>
+
+  <input class="button" type="submit" value="Send">
+</form>
