@@ -13,7 +13,7 @@ layout: home
 이순재*(#뉴비 #게이머 #마음만은 #초고수)*씨는  
 올해 84세가 되었지만 손자와 게임을 하기 위해 컴퓨터를 배우고 있다.  
 
-하지만 '요즘 것들'의 채팅 속도를 따라잡기가 어렵다. 타자 연습 프로그램으로 사용해보았지만, 실력이 는는 느낌이 안든다.  
+하지만 '요즘 것들'의 채팅 속도를 따라잡기가 어렵다. 타자 연습 프로그램으로 사용해보았지만, 실력이 느는 느낌이 안든다.  
 
 그런데!!!  
 
@@ -38,9 +38,9 @@ layout: home
 <iframe width="100%" height="300px" src="https://www.youtube.com/embed/ZEWkTbEnWDc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
-## 논문(KSC2017 학부생 논문 경진대회)
- 
-[논문을 한번 봐볼까요?](/paper.pdf)
+## 논문  
+
+KSC2017 학부생 논문 경진대회 [논문을 한번 봐볼까요? 클릭해주세요](/paper.pdf)
  
 ## 시스템 구성도  
 
